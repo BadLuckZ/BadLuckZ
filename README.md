@@ -1,17 +1,17 @@
 # Hello, I'm Thanagorn Chaiyut (BadLuckZ) 👋
 
-A developer who strives to be better than my past self.
+A developer who want to be better than my past self.
 
 ## 🚀 About Me
 
 - 🔭 Currently studying Computer Programming Year 2 at Chulalongkorn University.
 - 🌱 Interested in Data Science and Machine Learning.
-- 🤔 Can be a Frontend Developer who knows SQL.
-- 🐶 Fun fact: I'm a dog person but don't have any dogs TT
+- 🤔 Also interested in both Frontend and Backend.
+- 🐶 I'm a dog person but don't have any dogs TT
 
 ## 🌐 My Website
 
-[Click](https://badluckz.github.io/Project-MyPortfolio/)
+[Click Here](https://badluckz.github.io/Project-MyPortfolio/)
 
 ## 🛠️ Languages and Tools I Have Learned
 
@@ -22,7 +22,6 @@ A developer who strives to be better than my past self.
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Frameworks and Libraries
