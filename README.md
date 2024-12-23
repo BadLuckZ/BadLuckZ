@@ -7,6 +7,8 @@ A developer who want to be better than my past self.
 - 🔭 Currently studying Computer Programming Year 2 at Chulalongkorn University.
 - 🌱 Interested in Data Science and Machine Learning.
 - 🤔 Also interested in both Frontend and Backend.
+- 🚧 Implementing University's Online Learning Platform named myCourseVille (In Progress)
+
 - 🐶 I'm a dog person but don't have any dogs TT
 
 ## 🌐 My Website
