@@ -1,6 +1,6 @@
 # Hello, I'm Thanagorn Chaiyut (BadLuckZ) 👋
 
-A developer who want to be better than my past self.
+A person who wants to be better than my past self.
 
 ## 🚀 About Me
 
