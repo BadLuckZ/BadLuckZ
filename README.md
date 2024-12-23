@@ -8,7 +8,7 @@ A developer who want to be better than my past self.
 - 🌱 Interested in Data Science and Machine Learning.
 - 🤔 Also interested in both Frontend and Backend.
   
-- 🚧 Implementing University's Online Learning Platform named myCourseVille before graduation is my goal (In Progress)
+- 🎯 **Implementing University's Online Learning Platform named myCourseVille before graduation**
 
 - 🐶 I'm a dog person but don't have any dogs TT
 
