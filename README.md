@@ -1,4 +1,4 @@
-# Hello, I'm Thanagorn Chaiyut (BadLuckZ) 👋
+# Hello, I'm Thanagorn Chaiyut (Best aka.BadLuckZ) 👋
 
 A person who wants to be better than my past self.
 
