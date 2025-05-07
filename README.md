@@ -1,5 +1,4 @@
 # Hello, I'm Thanagorn Chaiyut
-
 A person who wants to be better than my past self.
 
 ## 🚀 About Me
@@ -7,9 +6,7 @@ A person who wants to be better than my past self.
 - 🔭 Currently studying Computer Programming Year 2 at Chulalongkorn University.
 - 🌱 Interested in Data Science and Machine Learning.
 - 🤔 Also interested in both Frontend and Backend.
-  
 - 🎯 **Implementing University's Online Learning Platform named myCourseVille before graduation**
-
 - 🐶 I'm a dog person but don't have any dogs TT
 
 ## 🌐 My Website
@@ -31,10 +28,7 @@ A person who wants to be better than my past self.
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
-![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 
 ## 📈 GitHub Stats
 
