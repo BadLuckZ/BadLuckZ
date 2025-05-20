@@ -29,6 +29,7 @@ A person who wants to be better than my past self.
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 
 ## 📈 GitHub Stats
 
