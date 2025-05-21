@@ -7,7 +7,6 @@ A person who wants to be better than my past self.
 - 🌱 Interested in Data Science and Machine Learning.
 - 🤔 Also interested in both Frontend and Backend.
 - 🎯 **Implementing University's Online Learning Platform named myCourseVille before graduation**
-- 🐶 I'm a dog person but don't have any dogs TT
 
 ## 🌐 My Website
 
@@ -30,11 +29,6 @@ A person who wants to be better than my past self.
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-
-## 📈 GitHub Stats
-
-![BadLuckZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadLuckZ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadLuckZ&layout=compact&theme=radical)
 
 ## 📌 Pinned Repositories
 
