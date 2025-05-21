@@ -32,7 +32,7 @@ A person who wants to be better than my past self.
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-Sandbox-Div-Centering)](https://github.com/BadLuckZ/Project-Sandbox-Div-Centering)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-ECommerce-Div-Centering)](https://github.com/BadLuckZ/Project-ECommerce-Div-Centering)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-PixelSaga)](https://github.com/BadLuckZ/Project-PixelSaga)
 
 ## 📫 Connect with Me
