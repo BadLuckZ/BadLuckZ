@@ -42,7 +42,7 @@
 
 ## 📊 Languages Breakdown
 
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BadLuckZ&langs_count=10&layout=donut&theme=tokyonight)](https://github.com/BadLuckZ)
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BadLuckZ&langs_count=10&layout=donut&theme=dracula)](https://github.com/BadLuckZ)
 
 ---
 
