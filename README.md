@@ -1,26 +1,28 @@
-# Hello, I'm Thanagorn Chaiyut
-A person who wants to be better than my past self.
+# 👋 Hello, I'm Thanagorn Chaiyut
+
+> A person who wants to be better than my past self.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently studying Computer Programming Year 2 at Chulalongkorn University.
-- 🌱 Interested in Data Science and Machine Learning.
-- 🤔 Also interested in both Frontend and Backend.
-- 🎯 **Implementing University's Online Learning Platform named myCourseVille before graduation**
+- 🎓 Currently studying **Computer Programming (Year 2)** at **Chulalongkorn University**
+- 📊 Interested in **Data Science** and **Machine Learning**
+- 💻 Passionate about both **Frontend** and **Backend** development
+- 🎯 Goal: **Implement myCourseVille (CU’s Online Learning Platform)** before graduation
+- 🧠 Always learning something new every day!
 
 ---
 
-## 🌐 My Portfolio Website
+## 🌐 Portfolio Website
 
-[Click Here](https://badluckz.github.io/Project-MyPortfolio/)
+📎 [Click](https://badluckz.github.io/Project-MyPortfolio/) to visit my portfolio
 
 ---
 
-## 🛠️ Languages and Tools I Have Learned
+## 🛠️ Languages and Tools
 
-### Languages
+### 💻 Programming Languages
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -30,28 +32,39 @@ A person who wants to be better than my past self.
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
----
-
-### Frameworks and Libraries
+### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 
 ---
 
-## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-Flashcard)](https://github.com/BadLuckZ/Project-Flashcard)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-ECommerce-Div-Centering)](https://github.com/BadLuckZ/Project-ECommerce-Div-Centering)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-PixelSaga)](https://github.com/BadLuckZ/Project-PixelSaga)
+## 📊 Languages Breakdown
+
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BadLuckZ&langs_count=10&layout=donut&theme=tokyonight)](https://github.com/BadLuckZ)
+
+---
+
+## 📈 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BadLuckZ&show_icons=true&theme=dracula)](https://github.com/BadLuckZ)
+
+---
+
+## 📌 Pinned Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-Flashcard&theme=dracula)](https://github.com/BadLuckZ/Project-Flashcard)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-ECommerce-Div-Centering&theme=dracula)](https://github.com/BadLuckZ/Project-ECommerce-Div-Centering)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-PixelSaga&theme=dracula)](https://github.com/BadLuckZ/Project-PixelSaga)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)](https://www.linkedin.com/in/thanagorn-chaiyut-569936193)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)](https://www.linkedin.com/in/thanagorn-chaiyut-569936193)  
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:thanagorn8802@gmail.com)
 
 ---
 
-Thanks for visiting my profile! Have a great day! 😊
+_Thanks for visiting my profile!_ 🚀
