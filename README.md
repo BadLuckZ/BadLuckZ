@@ -31,6 +31,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 
 ### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
