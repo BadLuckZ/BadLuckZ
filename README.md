@@ -41,12 +41,6 @@
 
 ---
 
-## 📊 Languages Breakdown
-
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BadLuckZ&langs_count=10&layout=donut&theme=dracula)](https://github.com/BadLuckZ)
-
----
-
 ## 📈 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BadLuckZ&show_icons=true&theme=dracula)](https://github.com/BadLuckZ)
