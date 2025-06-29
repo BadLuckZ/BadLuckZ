@@ -9,8 +9,6 @@
 - 🎓 Currently studying **Computer Programming (Year 2)** at **Chulalongkorn University**
 - 📊 Interested in **Data Science** and **Machine Learning**
 - 💻 Passionate about both **Frontend** and **Backend** development
-- 🎯 Goal: **Implement myCourseVille (CU’s Online Learning Platform)** before graduation
-- 🧠 Always learning something new every day!
 
 ---
 
