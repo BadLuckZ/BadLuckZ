@@ -50,14 +50,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-Flashcard&theme=dracula)](https://github.com/BadLuckZ/Project-Flashcard)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-ECommerce-Div-Centering&theme=dracula)](https://github.com/BadLuckZ/Project-ECommerce-Div-Centering)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-PixelSaga&theme=dracula)](https://github.com/BadLuckZ/Project-PixelSaga)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)](https://www.linkedin.com/in/thanagorn-chaiyut-569936193)  
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:thanagorn8802@gmail.com)
-
----
-
-_Thanks for visiting my profile!_ 🚀
