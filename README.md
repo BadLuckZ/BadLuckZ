@@ -39,12 +39,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BadLuckZ&show_icons=true&theme=dracula)](https://github.com/BadLuckZ)
-
----
-
 ## 📌 Pinned Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-Flashcard&theme=dracula)](https://github.com/BadLuckZ/Project-Flashcard)  
