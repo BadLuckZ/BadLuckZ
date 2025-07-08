@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently studying **Computer Programming (Year 2)** at **Chulalongkorn University**
+- 🎓 Currently studying **Computer Programming (Year 3)** at **Chulalongkorn University**
 - 📊 Interested in **Data Science** and **Machine Learning**
 - 💻 Passionate about both **Frontend** and **Backend** development
 
