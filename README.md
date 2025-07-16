@@ -34,7 +34,6 @@
 ### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 
 ---
