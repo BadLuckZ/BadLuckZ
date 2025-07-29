@@ -40,6 +40,12 @@
 
 ## 📌 Pinned Projects
 
+### Data Science Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-Bitcoin-Trading-Model-101&theme=dracula)](https://github.com/BadLuckZ/Project-Bitcoin-Trading-Model-101)
+
+### Frontend Development Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-Flashcard&theme=dracula)](https://github.com/BadLuckZ/Project-Flashcard)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-ECommerce-Div-Centering&theme=dracula)](https://github.com/BadLuckZ/Project-ECommerce-Div-Centering)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-ECommerce-Div-Centering&theme=dracula)](https://github.com/BadLuckZ/Project-ECommerce-Div-Centering)
+
+### University Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-PixelSaga&theme=dracula)](https://github.com/BadLuckZ/Project-PixelSaga)
