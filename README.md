@@ -44,7 +44,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-Bitcoin-Signal-Prediction&theme=dracula)](https://github.com/BadLuckZ/Project-Bitcoin-Signal-Prediction)
 
 ### Frontend Development Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-Flashcard&theme=dracula)](https://github.com/BadLuckZ/Project-Flashcard)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-ECommerce-Div-Centering&theme=dracula)](https://github.com/BadLuckZ/Project-ECommerce-Div-Centering)
 
 ### University Projects
