@@ -34,7 +34,15 @@
 ### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+![Fiber](https://img.shields.io/badge/-Fiber-000?&logo=go)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
 ---
 
