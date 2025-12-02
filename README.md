@@ -46,5 +46,7 @@
 ### Frontend Development Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-ECommerce-Div-Centering&theme=dracula)](https://github.com/BadLuckZ/Project-ECommerce-Div-Centering)
 
-### University Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-PixelSaga&theme=dracula)](https://github.com/BadLuckZ/Project-PixelSaga)
+---
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadLuckZ&layout=compact&theme=dracula)
