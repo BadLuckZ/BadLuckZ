@@ -8,7 +8,7 @@
 
 - 🎓 Currently studying **Computer Programming (Year 3)** at **Chulalongkorn University**
 - 📊 Interested in **Data Science** and **Machine Learning**
-- 💻 Passionate about both **Full Stack Development**
+- 💻 Passionate about **Full Stack Development**
 
 ---
 
