@@ -48,5 +48,7 @@
 
 ---
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadLuckZ&layout=compact&theme=dracula)
+## 📊 Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BadLuckZ&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BadLuckZ&theme=dracula)
+
