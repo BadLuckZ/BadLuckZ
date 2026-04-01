@@ -46,16 +46,6 @@
 
 ---
 
-## 📌 Pinned Projects
-
-### Data Science Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-Bitcoin-Signal-Prediction&theme=dracula)](https://github.com/BadLuckZ/Project-Bitcoin-Signal-Prediction)
-
-### Frontend Development Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BadLuckZ&repo=Project-ECommerce-Div-Centering&theme=dracula)](https://github.com/BadLuckZ/Project-ECommerce-Div-Centering)
-
----
-
 ## 📊 Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BadLuckZ&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BadLuckZ&theme=dracula)
