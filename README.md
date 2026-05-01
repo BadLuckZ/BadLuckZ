@@ -22,14 +22,15 @@
 
 ### 💻 Programming Languages
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=sql)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
 ### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -37,7 +38,9 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![Fiber](https://img.shields.io/badge/-Fiber-000?&logo=go)
+![Gin](https://img.shields.io/badge/-Gin-000?&logo=go)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
+![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=springboot)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 
 ### 🗄️ Databases
