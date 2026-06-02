@@ -1,9 +1,3 @@
-# 👋 Hello, I'm Thanagorn Chaiyut
-
-> A person who wants to be better than my past self.
-
----
-
 ## 🚀 About Me
 
 - 🎓 Currently studying **Computer Programming (Year 3)** at **Chulalongkorn University**
